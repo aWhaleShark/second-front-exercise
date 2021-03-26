@@ -14,7 +14,7 @@ Preferred languages
 
 Write a program which
 - [ ] Creates a http web server
-- [ ] Consumes a API from two different _Open Data Sources_
+- [ ] Consumes a API from two accessible data sources
 - [ ] Renders the respective payloads in a view
 
 Bonus
@@ -26,7 +26,7 @@ Bonus
 
 
 
-**Open Data Sources**
+**Open Data Source Examples (not limited to)**
 
 - [data.gov](https://catalog.data.gov/dataset)
 - [defense.gov](https://www.defense.gov/data.json)
